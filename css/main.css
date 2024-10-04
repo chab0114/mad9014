@@ -36,6 +36,9 @@ nav > a {
 .highlight {
   background-color: rebeccapurple;
   color: white;
+  padding: 1rem;
+  margin: 1rem;
+
 }
 .hidden {
   display: none;
